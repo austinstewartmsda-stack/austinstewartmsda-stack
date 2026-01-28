@@ -29,6 +29,10 @@
 
 ---
 
+## Videos
+SQL Joins:
+[https://www.youtube.com/@AustinStewart001/videos](https://www.youtube.com/watch?v=AWZ0cLb2ynw)
+
 ## Overview
 
 I design systems that remove manual work from healthcare operations.
@@ -123,5 +127,6 @@ Open to:
 
 **LinkedIn:** https://www.linkedin.com/in/austin-stewart-msda-6a26741a8  
 **GitHub:** https://github.com/austinstewartmsda-stack  
+**YouTube:** https://www.youtube.com/@AustinStewart001/videos
 
 ---
