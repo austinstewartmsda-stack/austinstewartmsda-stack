@@ -34,6 +34,8 @@
 SQL Joins:
 [https://www.youtube.com/@AustinStewart001/videos](https://www.youtube.com/watch?v=AWZ0cLb2ynw)
 
+## Excel
+
 ## Statistics and Probability
 Test Statistics and P-Values (How they relate to each other):
 
