@@ -52,11 +52,7 @@ At the Montana Department of Public Health and Human Services, I have:
 
 My work centers on operational analytics, automation at scale, and healthcare system modernization.
 
-Here on GitHub, I publish architecture-focused case studies and analytics projects that demonstrate complete workflows:
-
-**ingestion → cleaning → modeling → analysis → dashboards → automation**
-
----
+Here on GitHub, I publish architecture-focused case studies and analytics projects that demonstrate complete workflows
 
 ## Focus Areas
 
