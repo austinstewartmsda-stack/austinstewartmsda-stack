@@ -33,6 +33,8 @@
 ## SQL
 SQL Joins:
 [https://www.youtube.com/@AustinStewart001/videos](https://www.youtube.com/watch?v=AWZ0cLb2ynw)
+CTES, Views, and SQL (Conceptual Video):
+https://www.youtube.com/watch?v=XN81FafUJMo
 
 ## Excel
 
