@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="BannerImage.jpg" alt="Austin Stewart Health Data Analytics & Automation" width="100%" />
+  <img src="Degree1.png" alt="Austin Stewart Health Data Analytics & Automation" width="50%" />
+  <img src="degree2.png" alt="Austin Stewart Health Data Analytics & Automation" width="50%" />
 </p>
 
 <h1 align="center">Austin Stewart, MSDA</h1>
