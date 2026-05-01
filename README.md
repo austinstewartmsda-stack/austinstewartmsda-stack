@@ -31,14 +31,18 @@
 ---
 
 ## Videos
-## SQL
-SQL Joins:
-[https://www.youtube.com/@AustinStewart001/videos](https://www.youtube.com/watch?v=AWZ0cLb2ynw)
-CTES, Views, and SQL (Conceptual Video):
-https://www.youtube.com/watch?v=XN81FafUJMo
 
-Scalar Subqueries:
-https://www.youtube.com/watch?v=0VK_6XhCc6s
+### SQL Joins
+- [Watch Video](https://www.youtube.com/watch?v=AWZ0cLb2ynw)
+
+### CTEs, Views, and SQL (Conceptual Video)
+- [Watch Video](https://www.youtube.com/watch?v=XN81FafUJMo)
+
+### Scalar Subqueries
+- [Watch Video](https://www.youtube.com/watch?v=0VK_6XhCc6s)
+
+### More Videos
+- [Austin Stewart YouTube Channel](https://www.youtube.com/@AustinStewart001/videos)
 
 ## Excel
 
