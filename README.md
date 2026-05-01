@@ -37,6 +37,9 @@ SQL Joins:
 CTES, Views, and SQL (Conceptual Video):
 https://www.youtube.com/watch?v=XN81FafUJMo
 
+Scalar Subqueries:
+https://www.youtube.com/watch?v=0VK_6XhCc6s
+
 ## Excel
 
 ## Statistics and Probability
