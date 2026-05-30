@@ -3,7 +3,7 @@
   <img src="degree2.png" alt="Austin Stewart Health Data Analytics & Automation" width="50%" />
 </p>
 
-<h1 align="center">Austin Stewart, MSDA</h1>
+<h1 align="center">Austin Stewart, MSDS</h1>
 
 <p align="center">
   <strong>Health Data Analytics & Automation Engineer</strong><br>
