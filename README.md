@@ -99,7 +99,7 @@ This project contains information on a sensitive system and therefore I am not a
 ## Tooling
 
 ### Analytics & BI
-SQL • Python • Pandas • Snowflake • Power BI • Tableau • Excel  
+SQL • Python • Tableau • Excel  
 
 ### Automation & Systems
 ServiceNow • Power Automate • ETL Pipelines • PDF Automation • Workflow Orchestration  
