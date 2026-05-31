@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Health Data Analytics & Automation Engineer</strong><br>
-  #1 SQL Worldwide (HackerRank)
+  Ranked #1 Worldwide in SQL on HackerRank
 </p>
 
 <p align="center">
