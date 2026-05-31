@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  Helena, Montana · Python · SQL · Pandas · Snowflake · Power BI · Tableau · ServiceNow
+  Helena, Montana · Python · SQL · Excel · Tableau · ServiceNow
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-Expert-blue?logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation-green?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Analytics-217346?logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Healthcare-Analytics-purple?logo=medrt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Government-Systems-darkred?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-81B441?logo=servicenow&logoColor=white" />
 </p>
 
 
