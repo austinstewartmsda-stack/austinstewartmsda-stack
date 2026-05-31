@@ -28,7 +28,7 @@
 
 
 
----
+
 
 ## Videos
 
@@ -74,20 +74,27 @@ Here on GitHub, I publish architecture-focused case studies and analytics projec
 - Python Automation Pipelines  
 - BI Dashboards & Executive Reporting  
 
----
+
 
 ## Flagship Work
 
+### Medical Readmissions Analysis
+
+I analyzed hospital readmission data from 2008 through 2016 to identify trends, seasonal patterns, and periods of accelerated improvement. This project demonstrates data cleaning, SQL analysis, Tableau dashboard development, and data storytelling.
+
+**GitHub Repository:**  
+<https://github.com/austinstewartmsda-stack/Medical-Readmissions>
+
 ### Medicaid Repayment Automation
-Automated repayment pipelines serving more than 4,000 individuals. Replaced manual processing with Pandas-driven workflows that saved thousands of administrative hours annually.
+Automated repayment pipelines serving more than 4,000 individuals. Replaced manual processing with Pandas-driven workflows that saved thousands of administrative hours annually. This project contains information on a sensitive system and therefore I am not allowed to share the code. 
 
 ### 50-Year Data Digitization & Snowflake Migration
-Cleaned and migrated five decades of Medicaid records from CSV files and scanned paper archives into a Snowflake warehouse using SQL and Python.
+Cleaned and migrated five decades of Medicaid records from CSV files and scanned paper archives into a Snowflake warehouse using SQL and Python. This project contains information on a sensitive system and therefore I am not allowed to share the code. 
 
 ### ServiceNow PDF Automation Engine
 Built enterprise-grade PDF generation workflows that replaced multi-step clerical processes with push-button automation.
+This project contains information on a sensitive system and therefore I am not allowed to share the code. 
 
----
 
 ## Tooling
 
@@ -97,7 +104,7 @@ SQL • Python • Pandas • Snowflake • Power BI • Tableau • Excel
 ### Automation & Systems
 ServiceNow • Power Automate • ETL Pipelines • PDF Automation • Workflow Orchestration  
 
----
+
 
 ## Certifications
 
@@ -106,7 +113,7 @@ ServiceNow • Power Automate • ETL Pipelines • PDF Automation • Workflow 
 - Flow Designer  
 - IT Essentials  
 
----
+
 
 ## Professional Philosophy
 
@@ -121,7 +128,7 @@ When I approach a problem, I look for:
 
 I prefer measurable impact over tooling for its own sake.
 
----
+
 
 ## Career Interests
 
@@ -133,7 +140,7 @@ Open to:
 - Healthcare Analytics Roles  
 - Government Technology & Public Sector Analytics  
 
----
+
 
 ## Contact
 
